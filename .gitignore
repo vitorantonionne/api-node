@@ -3,3 +3,5 @@ node_modules
 db/app.db
 
 ./package.json/.eslintrc.json
+
+.env
